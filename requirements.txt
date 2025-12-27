@@ -1,0 +1,14 @@
+# Email Generator Bot - Python Requirements
+# This application uses only standard library modules
+
+# No external dependencies required!
+# The application uses tkinter which comes bundled with Python
+
+# Optional: For creating standalone executable
+# pyinstaller>=5.0.0
+
+# Note: tkinter is included with standard Python installations on Windows
+# If tkinter is not available, install it using:
+# - Windows: Reinstall Python with tkinter option checked
+# - Linux: sudo apt-get install python3-tk
+# - macOS: brew install python-tk
